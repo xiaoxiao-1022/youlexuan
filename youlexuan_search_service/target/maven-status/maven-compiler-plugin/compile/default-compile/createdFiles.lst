@@ -1,0 +1,3 @@
+com\offcn\search\service\listener\solrDeleteListener.class
+com\offcn\search\service\listener\solrListener.class
+com\offcn\search\service\impl\SearchItemServiceImpl.class

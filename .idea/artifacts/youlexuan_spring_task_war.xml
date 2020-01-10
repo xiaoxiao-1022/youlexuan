@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="youlexuan_spring_task:war">
+    <output-path>$PROJECT_DIR$/youlexuan_spring_task/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>youlexuan_spring_task</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="youlexuan_spring_task-1.0.war">
+      <element id="artifact" artifact-name="youlexuan_spring_task:war exploded" />
+    </root>
+  </artifact>
+</component>
